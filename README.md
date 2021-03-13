@@ -13,3 +13,7 @@ My preferred tools for machine learning (scikit, xgboost), data visualization (D
 
 ### 📫 How to reach me
 Drop me a line at suresh.shanmugam@icloud.com about anything or your project if you’re interested in working with me.
+
+### Latest Blog Posts on www.sureshshanmugam.com
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
