@@ -10,8 +10,7 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: suresh/blog-post-workflow@master
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "5"
           feed_list: "https://sureshshanmugam.com/feed.xml"
