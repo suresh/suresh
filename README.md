@@ -16,14 +16,14 @@ Drop me a line at suresh.shanmugam@icloud.com about anything or your project if 
 
 ### Latest Blog Posts on www.sureshshanmugam.com
 <!--START_SECTION:feed-->
-#### [Writing with less friction. Case for iPad](https:&#x2F;&#x2F;sureshshanmugam.com&#x2F;articles&#x2F;ipad-writing&#x2F;)
-#### [Altair Sample Viz](https:&#x2F;&#x2F;sureshshanmugam.com&#x2F;articles&#x2F;altair-notebook-sample&#x2F;)
-#### [Book Review - In the Service of Republic](https:&#x2F;&#x2F;sureshshanmugam.com&#x2F;articles&#x2F;service-republic-review&#x2F;)
-#### [Publishing Jupyter Notebooks on Github Pages](https:&#x2F;&#x2F;sureshshanmugam.com&#x2F;articles&#x2F;publish-jupyter-notebooks&#x2F;)
-#### [Example Post](https:&#x2F;&#x2F;sureshshanmugam.com&#x2F;articles&#x2F;example-post&#x2F;)
-#### [Introduction to timeseries plots in Python](https:&#x2F;&#x2F;sureshshanmugam.com&#x2F;articles&#x2F;Python-Finance&#x2F;)
-#### [What’s Jekyll](https:&#x2F;&#x2F;sureshshanmugam.com&#x2F;articles&#x2F;what-jekyll&#x2F;)
-#### [Distributions](https:&#x2F;&#x2F;sureshshanmugam.com&#x2F;articles&#x2F;distributions&#x2F;)
-#### [Text Features](https:&#x2F;&#x2F;sureshshanmugam.com&#x2F;articles&#x2F;text-features&#x2F;)
-#### [Financial Timeseries](https:&#x2F;&#x2F;sureshshanmugam.com&#x2F;articles&#x2F;financial&#x2F;)
+* [Writing with less friction. Case for iPad](https:&#x2F;&#x2F;sureshshanmugam.com&#x2F;articles&#x2F;ipad-writing&#x2F;)
+* [Altair Sample Viz](https:&#x2F;&#x2F;sureshshanmugam.com&#x2F;articles&#x2F;altair-notebook-sample&#x2F;)
+* [Book Review - In the Service of Republic](https:&#x2F;&#x2F;sureshshanmugam.com&#x2F;articles&#x2F;service-republic-review&#x2F;)
+* [Publishing Jupyter Notebooks on Github Pages](https:&#x2F;&#x2F;sureshshanmugam.com&#x2F;articles&#x2F;publish-jupyter-notebooks&#x2F;)
+* [Example Post](https:&#x2F;&#x2F;sureshshanmugam.com&#x2F;articles&#x2F;example-post&#x2F;)
+* [Introduction to timeseries plots in Python](https:&#x2F;&#x2F;sureshshanmugam.com&#x2F;articles&#x2F;Python-Finance&#x2F;)
+* [What’s Jekyll](https:&#x2F;&#x2F;sureshshanmugam.com&#x2F;articles&#x2F;what-jekyll&#x2F;)
+* [Distributions](https:&#x2F;&#x2F;sureshshanmugam.com&#x2F;articles&#x2F;distributions&#x2F;)
+* [Text Features](https:&#x2F;&#x2F;sureshshanmugam.com&#x2F;articles&#x2F;text-features&#x2F;)
+* [Financial Timeseries](https:&#x2F;&#x2F;sureshshanmugam.com&#x2F;articles&#x2F;financial&#x2F;)
 <!--END_SECTION:feed-->
