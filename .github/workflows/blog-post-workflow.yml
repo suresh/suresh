@@ -5,6 +5,7 @@ on:
     - cron: '0 * * * *'
   push:
     branches: [ master ]
+  workflow_dispatch:
 
 jobs:
   update:
@@ -12,7 +13,7 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://sureshshanmugam.com/feed
+          feed-url: https://sureshshanmugam.com/feed.xml
           readme-section: feed
           max: 10 # max number of items (default 5)
           template: "#### [{{ title }}]({{ link }}) \n*{{ contentSnippet }}*\n\n"
