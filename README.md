@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I'm Suresh. 
+### Hi there 👋 I'm Suresh. 
 
 🔭 I am a Data Science Director working on Machine Learning problems. I'm currently working on Natural Language Processing, Text Mining, and Time Series Analysis areas. My work relies heavily on crunching a ton of data and implementing efficient program algorithms, Monte Carlo modeling, and performing statistical inference. In the past, I have worked on several firms in financial services, manufacturing & retail industries.
 
