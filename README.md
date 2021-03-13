@@ -1,18 +1,17 @@
 ### Hi there 👋
 
-<!--
-**suresh/suresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Suresh. 
 
-Here are some ideas to get you started:
+🔭 I am a Data Science Director working on Machine Learning problems. I'm currently working on Natural Language Processing, Text Mining, and Time Series Analysis areas. My work relies heavily on crunching a ton of data and implementing efficient program algorithms, Monte Carlo modeling, and performing statistical inference. In the past, I have worked on several firms in financial services, manufacturing & retail industries.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Skills
+My preferred tools for machine learning (scikit, xgboost), data visualization (D3.js), big data (Spark), deep learning (Theano, Keras, TensorFlow).
 
-### I'm Suresh. I work on data science projects and here some of my key ones.
+  * Python [pandas, scikit-learn, numpy, pyspark]
+  * R [ggplot, caret, data.table, dplyr/tidyr]
+  * Scala, Spark [MLlib, GraphX, DataFrames]
+  * SQL [Hive, PostgreSQL, MySQL]
+  * Linux & MacOS, Git [GitHub], AWS [EMR, S3, EC2]
+
+### 📫 How to reach me
+Drop me a line at suresh.shanmugam@icloud.com about anything or your project if you’re interested in working with me.
