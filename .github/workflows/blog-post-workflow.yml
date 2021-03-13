@@ -6,11 +6,12 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  update:
     runs-on: ubuntu-latest
     steps:
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: JasonEtco/rss-to-readme@v1
         with:
-          max_post_count: "5"
-          feed_list: "https://sureshshanmugam.com/feed"
+          feed-url: https://sureshshanmugam.com/feed
+          readme-section: feed
+          max: 10 # max number of items (default 5)
+          template: "#### [{{ title }}]({{ link }}) \n*{{ contentSnippet }}*\n\n"
