@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Suresh. 
 
-🔭 I am a Data Science Director working on Machine Learning problems. I'm currently working on Natural Language Processing, Text Mining, and Time Series Analysis areas. My work relies heavily on crunching a ton of data and implementing efficient program algorithms, Monte Carlo modeling, and performing statistical inference. In the past, I have worked on several firms in financial services, manufacturing & retail industries.
+🔭 I am a VP, Data Science working on Machine Learning problems helping build FinTech businesses. I'm currently working on Natural Language Processing, Text Mining, and Time Series Analysis areas. My work relies heavily on crunching a ton of data and implementing efficient program algorithms, Monte Carlo modeling, and performing statistical inference. In the past, I have worked on several firms in financial services, manufacturing & retail industries.
 
 ### 🌱 Skills
 My preferred tools for machine learning (scikit, xgboost), data visualization (D3.js), big data (Spark), deep learning (Theano, Keras, TensorFlow).
